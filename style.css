@@ -14,3 +14,15 @@ section {
 li a:hover {
   text-shadow: 0px 7px 12px red;
 }
+
+#aboutme{
+  padding-top:5rem;
+}
+
+#projects{
+  padding-top:5rem;
+}
+
+#contact{
+  padding-top:5rem;
+}
